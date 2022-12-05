@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "903b5191304a2318",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3675ae5a57acdd2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Project/HOnline/代码梳理.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "903e53dd68360cda",
+    "type": "split",
+    "children": [
+      {
+        "id": "27430c0b715b74b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aad314afd57caa6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "908d338c3621e3d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ade3ee445cc1a905",
+    "type": "split",
+    "children": [
+      {
+        "id": "99780a3f9af775ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea97eae7da93407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project/HOnline/代码梳理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c3675ae5a57acdd2",
+  "lastOpenFiles": [
+    "Project/HOnline/HOnline.md",
+    "Project/HOnline/代码梳理.md",
+    "Project/HOnline/知识点.md",
+    "handmodel_block.png.md",
+    "Project/Object Detection/YOLO V1.md",
+    "Project/HOnline/log.md",
+    "Paper/Gesture/[hmodel, model]Sphere-Meshes for Real-Time Hand Modeling and Tracking.pdf",
+    "编程语言/pybind11使用.md",
+    "src/Y.md",
+    "src/YOLO.md"
+  ]
+}

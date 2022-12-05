@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "903b5191304a2318",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee9ac4639e1279a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e376f430ac79b306",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "903e53dd68360cda",
+    "type": "split",
+    "children": [
+      {
+        "id": "27430c0b715b74b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aad314afd57caa6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "908d338c3621e3d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ade3ee445cc1a905",
+    "type": "split",
+    "children": [
+      {
+        "id": "99780a3f9af775ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea97eae7da93407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pytorch Trick集锦.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5aad314afd57caa6",
+  "lastOpenFiles": [
+    "handmodel_block.png.md",
+    "Pytorch Trick集锦.md",
+    "Project/HOnline/代码细节.md",
+    "Project/HOnline/代码梳理.md",
+    "Project/HOnline/HOnline.md",
+    "Project/HOnline/log.md",
+    "Project/HOnline/语法知识点.md",
+    "Project/HOnline/img/图像坐标系.png",
+    "Project/HOnline/src/handmodel.pdf",
+    "Project/Object Detection/YOLO V1.md"
+  ]
+}
